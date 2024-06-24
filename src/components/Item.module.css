@@ -1,0 +1,13 @@
+.kg-item{
+  background-color: aquamarine;
+}
+.kg-span{
+  font-weight: 600;
+  color: blueviolet;
+  text-transform: capitalize;
+}
+.btn{
+   color: black;
+   float: right;
+}
+
